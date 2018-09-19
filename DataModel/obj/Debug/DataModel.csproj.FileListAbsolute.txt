@@ -1,0 +1,5 @@
+D:\work\Programming\Projects\TradingSimulator\DataModel\bin\Debug\DataModel.dll
+D:\work\Programming\Projects\TradingSimulator\DataModel\bin\Debug\DataModel.pdb
+D:\work\Programming\Projects\TradingSimulator\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\work\Programming\Projects\TradingSimulator\DataModel\obj\Debug\DataModel.dll
+D:\work\Programming\Projects\TradingSimulator\DataModel\obj\Debug\DataModel.pdb

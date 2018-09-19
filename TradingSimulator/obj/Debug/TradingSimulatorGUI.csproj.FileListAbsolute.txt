@@ -1,0 +1,9 @@
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\bin\Debug\TradingSimulator.exe.config
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\bin\Debug\TradingSimulator.exe
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\bin\Debug\TradingSimulator.pdb
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\obj\Debug\TradingSimulatorGUI.csprojResolveAssemblyReference.cache
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\obj\Debug\TradingSimulator.MainForm.resources
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\obj\Debug\TradingSimulator.Properties.Resources.resources
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\obj\Debug\TradingSimulatorGUI.csproj.GenerateResource.Cache
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\obj\Debug\TradingSimulator.exe
+D:\work\Programming\Projects\TradingSimulator\TradingSimulator\obj\Debug\TradingSimulator.pdb

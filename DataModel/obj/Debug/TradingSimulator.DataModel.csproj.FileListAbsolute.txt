@@ -1,0 +1,16 @@
+D:\work\Diploma\TradingSimulator\DataModel\obj\Debug\TradingSimulator.DataModel.csprojResolveAssemblyReference.cache
+D:\work\Diploma\TradingSimulator\DataModel\obj\Debug\DataModel.dll
+D:\work\Diploma\TradingSimulator\DataModel\obj\Debug\DataModel.pdb
+D:\work\Diploma\TradingSimulator\DataModel\bin\Debug\DataModel.dll
+D:\work\Diploma\TradingSimulator\DataModel\bin\Debug\DataModel.pdb
+D:\work\Programming\TradingSimulator\DataModel\bin\Debug\DataModel.dll
+D:\work\Programming\TradingSimulator\DataModel\bin\Debug\DataModel.pdb
+D:\work\Programming\TradingSimulator\DataModel\obj\Debug\TradingSimulator.DataModel.csprojResolveAssemblyReference.cache
+D:\work\Programming\TradingSimulator\DataModel\obj\Debug\DataModel.dll
+D:\work\Programming\TradingSimulator\DataModel\obj\Debug\DataModel.pdb
+D:\work\Programming\TradingSimulatorManual\DataModel\bin\Debug\DataModel.dll
+D:\work\Programming\TradingSimulatorManual\DataModel\bin\Debug\DataModel.pdb
+D:\work\Programming\TradingSimulatorManual\DataModel\obj\Debug\DataModel.dll
+D:\work\Programming\TradingSimulatorManual\DataModel\obj\Debug\DataModel.pdb
+D:\work\Programming\TradingSimulatorManual\DataModel\obj\Debug\TradingSimulator.DataModel.csprojAssemblyReference.cache
+D:\work\Programming\TradingSimulatorManual\DataModel\obj\Debug\TradingSimulator.DataModel.csproj.CoreCompileInputs.cache

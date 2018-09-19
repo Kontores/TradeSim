@@ -1,0 +1,9 @@
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\obj\Debug\TradingSimulator.Automation.csprojResolveAssemblyReference.cache
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\bin\Debug\DataModel.dll
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\bin\Debug\Processing.dll
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\bin\Debug\DataModel.pdb
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\bin\Debug\Processing.pdb
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\bin\Debug\TradingSimulator.Automation.dll
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\bin\Debug\TradingSimulator.Automation.pdb
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\obj\Debug\TradingSimulator.Automation.dll
+D:\work\Programming\TradingSimulator\TradingSimulator.Automation\obj\Debug\TradingSimulator.Automation.pdb

@@ -1,0 +1,7 @@
+D:\work\Programming\Projects\TradingSimulator\Processing\bin\Debug\Processing.dll
+D:\work\Programming\Projects\TradingSimulator\Processing\bin\Debug\Processing.pdb
+D:\work\Programming\Projects\TradingSimulator\Processing\bin\Debug\DataModel.dll
+D:\work\Programming\Projects\TradingSimulator\Processing\bin\Debug\DataModel.pdb
+D:\work\Programming\Projects\TradingSimulator\Processing\obj\Debug\Processing.csprojResolveAssemblyReference.cache
+D:\work\Programming\Projects\TradingSimulator\Processing\obj\Debug\Processing.dll
+D:\work\Programming\Projects\TradingSimulator\Processing\obj\Debug\Processing.pdb
